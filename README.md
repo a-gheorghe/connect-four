@@ -1,3 +1,35 @@
+# Ana's Connect Four Solution #
+
+Connect Four with React
+
+Connect Four is a game where each player tries to get 4 pieces of their own colour in a row either vertically, horizontally, or diagonally.
+
+In this repo, most of the logic for the game can be found in src/Components/Board.js. The other components in the Components folder are primarily presentational.
+
+To run the project:
+
+```
+clone the repo
+npm i
+npm start
+```
+
+# Technical decisions #
+- Using React framework, upgraded to 16.8+ to use Hooks. We have started using Hooks recently at work and I wanted to take the opportunity to familiarize myself with them further.
+
+# Tasks still yet to be done: #
+- Writing tests (either Enzyme/Jest or react-testing-library because I've heard good things and want to try it out!)
+
+- Accessibility improvements - can navigate by keyboard and some screenreader aria-live regions, but not tested. Colour contrast could definitely be improved.
+
+- General UI styling should be refined - especially the focus state on the individual icons. I'd like to ideally be able to highlight the entire column instead of one button at a time.
+
+- Animations!! It would be fun to animate the chips being dropped into the board, and them being removed by a sliding lever under the board.
+
+- Personalization - have players input their names, choose a color palette for theselves for the game
+
+-----------------------------------------------------------------------------------------------------------------------
+
 # Cognite interview workspace
 
 This boilerplate is provided for candidates before interviews so we can spend as much time as possible doing interesting stuff in the interview.
