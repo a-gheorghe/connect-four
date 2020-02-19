@@ -9,7 +9,8 @@ In this repo, most of the logic for the game can be found in src/Components/Boar
 To run the project:
 
 ```
-clone the repo
+git clone https://github.com/a-gheorghe/connect-four.git
+cd connect-four
 npm i
 npm start
 ```
@@ -26,7 +27,7 @@ npm start
 
 - Animations!! It would be fun to animate the chips being dropped into the board, and them being removed by a sliding lever under the board.
 
-- Personalization - have players input their names, choose a color palette for theselves for the game
+- Personalization - have players input their names, choose a color palette for theselves
 
 -----------------------------------------------------------------------------------------------------------------------
 
