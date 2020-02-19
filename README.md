@@ -23,7 +23,9 @@ npm start
 
 - Accessibility improvements - can navigate by keyboard and some screenreader aria-live regions, but not tested. Colour contrast could definitely be improved.
 
-- General UI styling should be refined - especially the focus state on the individual icons. I'd like to ideally be able to highlight the entire column instead of one button at a time.
+- General UI styling should be refined:
+  - focus state on the individual buttons. I'd like to ideally be able to highlight the entire column instead of one button at a time
+  - responsiveness layout
 
 - Animations!! It would be fun to animate the chips being dropped into the board, and them being removed by a sliding lever under the board.
 
