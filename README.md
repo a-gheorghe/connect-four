@@ -1,10 +1,14 @@
-# Ana's Connect Four Solution #
-
-Connect Four with React
+## Connect Four with React ##
 
 Connect Four is a game where each player tries to get 4 pieces of their own colour in a row either vertically, horizontally, or diagonally.
 
 In this repo, most of the logic for the game can be found in src/Components/Board.js. The other components in the Components folder are primarily presentational.
+
+The game in the current repo looks like this:
+![image](https://user-images.githubusercontent.com/31079035/74907135-c5f04a80-5380-11ea-9f89-9c9b539e2738.png)
+
+To see an improved UI version of this game designed by *Holly McLean: www.hollywoulddesign.com*, visit https://github.com/a-gheorghe/connect-four-improved
+![image](https://user-images.githubusercontent.com/31079035/74907147-ca1c6800-5380-11ea-92ae-438c37134944.png)
 
 To run the project:
 
